@@ -1,5 +1,5 @@
 ### Hi Humans👋
-My name is Ricardo, I´am Js Developer and Tester.I come from the galaxy of bytes to code without limits!
+My name is Ricardo, I´am Js Developer and Tester. I come from the galaxy of bytes to code without limits!
 I´m currently learning Js, and I am in the second year of the systems career. 
 
 
