@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Humans👋
+My name is Ricardo, I´am Js Developer and Tester.I come from the galaxy of bytes to code without limits!
+I´m currently learning Js, and I am in the second year of the systems career. 
+
 
 <!--
 **RichardDB7/RichardDB7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
