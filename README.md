@@ -10,10 +10,20 @@ I´m currently learning Js, and I am in the second year of Higher Technician in 
 - Udemy - Pentesting Web 
  
 ## Skills
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+<p align="left">
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="40" height="40"/> </a> 
+     <a href="https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/java-logo.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://www.microsoft.com/es-ar/download/details.aspx?id=30653" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/net-logo.svg" alt="net" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/javascript-logo.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="h5" width="40" height="40"/> </a>
+ <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="h5" width="40" height="40"/> </a>
+   <a href="https://www.mysql.com" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/mysql-logo.svg"alt="python"width="40"height="40"/> </a> 
+   <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/visual-studio-code.svg" alt="visualstudio" width="40" height="40"/> </a>
+ <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="http://www.expertosdecomputadoras.com/wp-content/uploads/2012/02/como%20instalar%20xampp%20eaccelerator%20en%20un%20mac.png" alt="Xampp" width="40" height="40"/> </a>
 
+ 
+ 
+</p>
 
 ## 🤓 What's next? (LEARNING) :
 - .NET, JAVA, SQL Framework's and Libraries
