@@ -1,4 +1,4 @@
-### <h2>Hi Humans👋 My Name Is Ricardo</h2>
+### <h1>Hi Humans👋 My Name Is Ricardo</h1>
 I´am Software Developer and Tester. I come from the galaxy of bytes to code without limits!
 I´m currently learning Js, and I am in the second year of Higher Technician in Computer Systems Analysis.
 
