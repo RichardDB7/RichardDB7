@@ -1,6 +1,6 @@
 ### <h1>Hi Humans👋 My Name Is Ricardo :mage: </h1>
-I´am Software Developer & Web Master. I come from the galaxy of bytes to code without limits!
-I´m currently learning Js, and I am in the second year of Higher Technician in Computer Systems Analysis.
+I'm Software Developer & Web Master. I come from the galaxy of bytes to code without limits!
+I'm currently learning Js, and I am in the second year of Higher Technician in Computer Systems Analysis.
 
 ## 👨‍🏫 Education :
 - Jonah Smith Javascript Course
