@@ -3,7 +3,7 @@ I'm Software Developer & Web Master. I come from the galaxy of bytes to code wit
 I'm currently learning Java, .Net & Js, and I am in the second year of Higher Technician in Computer Systems Analysis.
 
 ## 👨‍🏫 Education :
-- Irso Institute  <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/README.md" target="_blank">[IRSO-Programacion]</a>
+- Irso Institute  <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/README.md" target="_blank">[IRSO-Programacíon]</a>
 - Jonah Smith Javascript Course
 - Udemy - Java University
 - Udemy - Web Development
