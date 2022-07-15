@@ -3,12 +3,12 @@ I'm Software Developer & Web Master. I come from the galaxy of bytes to code wit
 I'm currently learning Java, .Net & Js, and I am in the second year of Higher Technician in Computer Systems Analysis.
 
 ## 👨‍🏫 Education :
-- Irso Institute  <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/README.md" target="_blank">[IRSO-Programacíon]</a>
-- Fullstack Software Development <a href="https://github.com/RichardDB7/SistemaDeVentas/blob/main/README.md">[Sistema de ventas Java + Mysql]</a>
+- Irso Institute  <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/README.md" target="_blank">[IRSO-Programacíon]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/C">[C]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">[Java]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/.NET">[.Net]</a>
+- Fullstack Software Development <a href="https://github.com/RichardDB7/SistemaDeVentas/blob/main/README.md">[Sistema de ventas Java + Mysql]</a> - <a href="https://raw.githubusercontent.com/RichardDB7/SistemaDeVentas/main/Sistema.png">[Imagen]</a>
 - Jonah Smith Javascript Course
 - Udemy - Java University
 - Udemy - Web Development
-- Udemy: Master Testing 
+- Udemy: Master Testing - <a href="https://www.udemy.com/certificate/UC-075a91ce-646d-490d-b2c4-f07f682187d8/">[Certificado]</a>
 - Udemy - Pentesting Web 
  
 ## Skills
