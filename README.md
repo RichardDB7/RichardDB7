@@ -5,7 +5,7 @@ I'm currently learning Java, .Net & Js, and I am in the second year of Higher Te
 ## 👨‍🏫 Education :
 - Irso Institute  <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/README.md" target="_blank">[IRSO-Programacíon]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/C">[C]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">[Java]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/.NET">[.Net]</a>
 - Fullstack Software Development <a href="https://github.com/RichardDB7/SistemaDeVentas/blob/main/README.md">[Sistema de ventas Java + Mysql]</a> - <a href="https://raw.githubusercontent.com/RichardDB7/SistemaDeVentas/main/Sistema.png">[Imagen]</a>
-- Oracle One Program <a href="https://github.com/RichardDB7/OracleOne/tree/main/Logica%20I">[Logica I]</a> - <a href="https://app.aluracursos.com/certificate/ricardodiazbatalla/logica-de-programacion-primeros-pasos">[Certificado I]</a> - <a href="https://github.com/RichardDB7/OracleOne/tree/main/Logica%20II">[Logica I]</a> - <a href="https://app.aluracursos.com/certificate/ricardodiazbatalla/logica-de-programacion-conceptos-primordiales">[Certificado II]</a>
+- Oracle One Program <a href="https://github.com/RichardDB7/OracleOne/tree/main/Logica%20I">[Logica I]</a> - <a href="https://app.aluracursos.com/certificate/ricardodiazbatalla/logica-de-programacion-primeros-pasos">[Certificado I]</a> - <a href="https://github.com/RichardDB7/OracleOne/tree/main/Logica%20II">[Logica II]</a> - <a href="https://app.aluracursos.com/certificate/ricardodiazbatalla/logica-de-programacion-conceptos-primordiales">[Certificado II]</a>
 - Jonah Smith Javascript Course
 - Udemy - Java University
 - Udemy - Web Development
