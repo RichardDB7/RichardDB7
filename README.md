@@ -7,7 +7,7 @@ I'm currently learning Java, .Net & Js, and I am in the second year of Higher Te
 - Fullstack Software Development <a href="https://github.com/RichardDB7/SistemaDeVentas/blob/main/README.md">[Sistema de ventas Java + Mysql]</a> - <a href="https://raw.githubusercontent.com/RichardDB7/SistemaDeVentas/main/Sistema.png">[Imagen]</a>
 - Oracle One Program <a href="https://github.com/RichardDB7/OracleOne/tree/main/Logica%20I">[Logica I]</a> - <a href="https://app.aluracursos.com/certificate/ricardodiazbatalla/logica-de-programacion-primeros-pasos">[Certificado I]</a> - <a href="https://github.com/RichardDB7/OracleOne/tree/main/Logica%20II">[Logica II]</a> - <a href="https://app.aluracursos.com/certificate/ricardodiazbatalla/logica-de-programacion-conceptos-primordiales">[Certificado II]</a>
 - Jonah Smith Javascript Course [En curso]
-- Sql Desde Cero <a href="">[Operadores] -Proximamente-</a> - <a href="https://www.udemy.com/certificate/UC-957c6b71-2a24-4820-ab50-c91dfafee8d7/">[Certificado]</a>
+- Sql Desde Cero <a href="https://github.com/RichardDB7/SqlScripts">[Practicas Con Scripts & Operadores]</a> - <a href="https://www.udemy.com/certificate/UC-957c6b71-2a24-4820-ab50-c91dfafee8d7/">[Certificado]</a>
 - Udemy - Java University [En curso]
 - Udemy - Web Development [En curso]
 - Udemy: Master Testing - <a href="https://www.udemy.com/certificate/UC-075a91ce-646d-490d-b2c4-f07f682187d8/">[Certificado]</a>
