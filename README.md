@@ -32,7 +32,7 @@ I'm currently learning Java, .Net & Js, and I am in the second year of Higher Te
 </p>
 
 ## 🤓 What's next? (LEARNING) :
-- .NET, JAVA, SQL Framework's and Libraries
+- APEX, SALESFORCE TECHNOLOGIES .NET, JAVA, SQL Framework's and Libraries
 - REACT
 - PHP
 
