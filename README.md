@@ -17,6 +17,7 @@ I'm currently learning Salesforce Technologies, Apex, Lwc, Omniscript, Java & Js
  
 ## Skills
 <p align="left">
+  <a href="" target="_blank"> <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" alt="c" width="40" height="40"/> </a> 
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="40" height="40"/> </a> 
      <a href="https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/java-logo.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://www.microsoft.com/es-ar/download/details.aspx?id=30653" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/net-logo.svg" alt="net" width="40" height="40"/> </a>
