@@ -1,6 +1,6 @@
 ### <h1>Hi Humans👋 My Name Is Ricardo :mage: </h1>
 I'm Software Developer & Web Master. I come from the galaxy of bytes to code without limits!
-I'm currently working whit Salesforce Technologies, Apex, Lwc, Omniscript, PHP & Js, and I am in the second year of Higher Technician in Computer Systems Analysis.
+I'm currently working whit Salesforce Technologies, Apex, Lwc, Omniscript, Python & Js, and I am in the second year of Higher Technician in Computer Systems Analysis.
 
 ## 👨‍🏫 Education :
 - Irso Institute  <a href="https://github.com/RichardDB7/IRSO-Programacion/blob/main/README.md" target="_blank">[IRSO-Programacíon]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/C">[C]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/JAVA">[Java]</a> - <a href="https://github.com/RichardDB7/IRSO-Programacion/tree/main/.NET">[.Net]</a>
